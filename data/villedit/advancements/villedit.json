@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "VillEdit",
+        "description": "This datapack lets you edit and create your own custom villagers and shops!",
+        "icon": {
+            "item": "minecraft:villager_spawn_egg"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:silabear",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

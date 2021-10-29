@@ -1,0 +1,4 @@
+give @p writable_book{display:{Name:'{"text":"Villager Renaming","color":"aqua","bold":true,"italic":false}'},pages:[""]} 1
+tellraw @p ["",{"text":"===============================","color":"gold"},{"text":"\n"},{"text":"To rename a villager:","color":"green","underlined": true},{"text":"\n"},{"text":"1. Enter the name of the villager into the book ","color":"yellow"},{"text":"in quotation marks (\"\"). ","bold":true,"color":"yellow"},{"text":"(Example: \"Bob\")","color":"dark_aqua"},{"text":"\n"},{"text":"2. Click ","color":"yellow"},{"text":"[Done]","color":"dark_aqua"},{"text":", ","color":"yellow"},{"text":"Not [Sign]","color":"red"},{"text":"\n"},{"text":"3. Throw/drop the ","color":"yellow"},{"text":"Book and Quill","color":"dark_aqua"},{"text":" onto the villager","color":"yellow"},{"text":"\n"},{"text":"===============================","color":"gold"}]
+
+playsound minecraft:ui.button.click master @p

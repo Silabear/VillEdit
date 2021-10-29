@@ -1,0 +1,3 @@
+give @p minecraft:player_head{display:{Name:'{"text":""}'},SkullOwner:{Id:[I;849091312,1327581242,-1709353719,1292078541],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRlMzZjZjNmYjUzNzg5MmRiMmNlMjk4MWZmNTkzZDZkYTQxOWU1OGI5MmZiODZmOWEzYmRlMDQxZDZjYzk2In19fQ=="}]}}} 1
+
+give @p minecraft:player_head{display:{Name:'{"text":""}'},SkullOwner:{Id:[I;1710106672,-1484566983,-1989892729,-1477978868],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI1MGIzY2NlNzY2MzVlZjRjN2E4OGIyYzU5N2JkMjc0OTg2OGQ3OGY1YWZhNTY2MTU3YzI2MTJhZTQxMjAifX19"}]}}} 1

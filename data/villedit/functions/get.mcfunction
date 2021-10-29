@@ -1,0 +1,1 @@
+give @p villager_spawn_egg{display:{Name:'{"text":"Villager Editor","color":"aqua","italic":false}',Lore:['{"text":"Place this down to start","color":"gray","italic":false}','{"text":"editing a villager!","color":"gray","italic":false}']},EntityTag:{id:"minecraft:marker",Tags:["ve_new_editor"]}} 1
