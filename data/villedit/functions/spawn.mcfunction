@@ -7,3 +7,4 @@ execute align xyz positioned ~0.5 ~0.5 ~0.5 run summon villager ~ ~1 ~ {CustomNa
 tellraw @p ["",{"text":"[!]","bold":true,"color":"yellow"},{"text":" Do you need help? Watch the","color":"gold"},{"text":" "},{"text":"tutorial video","underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://www.youtube.com/watch?v=PztnQGLTsto"},"hoverEvent":{"action":"show_text","contents":"Click to visit the VillEdit tutorial video"}}]
 
 execute unless entity @s[type=player] run tp @s ~ -1000 ~
+execute unless entity @s[type=player] run kill @s
